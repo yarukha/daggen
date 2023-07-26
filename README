@@ -1,3 +1,6 @@
+WORKS ONLY FOR GCC 4-9 (not tested below)
+
+
 DAGGEN: A synthetic task graph generator
 
 This program generates random, synthetic task graphs for the purpose of 

@@ -28,6 +28,8 @@
  * returns 0 when Ok
  */
 
+Global global;
+
 int parseOptions(int argc, char *const *argv) {
   int ret_val = 0;
   int c;

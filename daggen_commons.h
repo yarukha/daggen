@@ -43,6 +43,7 @@ typedef struct {
   int dot_output;
   FILE *output_file;
 } Global;
+
 Global global;
 
 typedef struct _Task *Task;
